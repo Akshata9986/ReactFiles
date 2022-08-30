@@ -1,0 +1,41 @@
+.main {
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+}
+
+.n1 {
+    width: 500px;
+    height: 250px;
+    display: flex;
+}
+
+.d1 {
+    background-color: purple;
+    width: 100%;
+    height: 100%;
+}
+
+.d2 {
+    background-color: violet;
+    width: 100%;
+    height: 100%;
+}
+
+.n2 {
+    width: 500px;
+    height: 250px;
+    display: flex;
+}
+
+.d3 {
+    background-color: aquamarine;
+    width: 100%;
+    height: 100%;
+}
+
+.d4 {
+    background-color: lightskyblue;
+    width: 100%;
+    height: 100%;
+}

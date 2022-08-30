@@ -1,0 +1,18 @@
+.main {
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    display: flex;
+}
+
+.d1 {
+    background-color: aqua;
+    width: 50%;
+    height: 500px;
+}
+
+.d2 {
+    background-color: pink;
+    width: 50%;
+    height: 500px;
+}
